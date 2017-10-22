@@ -1,0 +1,10 @@
+body {
+	background-color: rgb(255);
+	color: rgb(64,64,64);
+	text-align: center;
+	font-family: "Open Sans", sans-serif;
+}
+
+h1 {
+	font-size: 200%;
+}
